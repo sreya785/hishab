@@ -1,0 +1,7 @@
+{
+  "name": "Hishab - Digital Khata & Income Proof for Small Shops",
+  "description": "Mobile-friendly digital khata for shopkeepers in Bangladesh. Turn handwritten notebook photos into verified income records and bank loan readiness scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
